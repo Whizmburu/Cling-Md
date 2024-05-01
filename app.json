@@ -1,7 +1,7 @@
 {
-  "name": "Cling-md@1.2.8",
+  "name": "Cling-md@1.1.1",
   "description": "I am Cling-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/481296919746f56820d40.jpg",
+  "logo": "https://telegra.ph/file/bf030ecd21305acbea4de.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/Cling/",
   "app_url": "/qr/",
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/481296919746f56820d40.jpg"
+      "value": "https://telegra.ph/file/bf030ecd21305acbea4de.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
