@@ -64,16 +64,7 @@
 
 
 ##
----                          <p align="center">https://heroku.com/deploy?template=</p>
 
-
-- Star ⭐ repo if you like this bot. 
-[![FORK CLING-MD](https://img.shields.io/badge/FORK%20-cling%20MD-purple)(https://github.com/whizmburu/cling-md/fork]
-
-
-<h2 align="center">  NOTICE
-</h2>
-   
 ## 
 *Cling-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 
