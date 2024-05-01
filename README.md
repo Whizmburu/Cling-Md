@@ -52,9 +52,7 @@
 
  
 <p align="left">Need help? please create an <a href="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7">issue</a></p>
-[![FORK CLING-MD](https://img.shields.io/badge/FORK%20-cling%20MD-purple)](https://github.com/whizmburu/cling-md/fork)}
-    
-   
+
 ## Deployment Methods
 **Get `SESSION ID` by [`SCANING QR`](https://cling-md.onrender.com/) Or [`PARING CODE`](https://cling-md.onrender.com/code).  Then `Go-to Whatapp>Three dots>Linked Devices`**
 
