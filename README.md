@@ -58,7 +58,7 @@
 
 **Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).**
 
-[Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/whizmburu/clind-MD&template=https://github.com/whizmburu/cling-md.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/whizmburu/cling-md&template=https://github.com/whizmburu/cling-md.git)
 
 **Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)**
 
