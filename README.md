@@ -56,9 +56,8 @@
 ## Deployment Methods
 **Get `SESSION ID` by [`SCANING QR`](https://cling-md.onrender.com/) Or [`PARING CODE`](https://cling-md.onrender.com/code).  Then `Go-to Whatapp>Three dots>Linked Devices`**
 
-**Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).**
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/whizmburu/cling-md&template=https://github.com/whizmburu/cling-md.git)
+[Deploy on heroku](https://spaces.w3schools.com/space/clindmddeploy)
 
 **Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)**
 
