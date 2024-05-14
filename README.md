@@ -57,9 +57,9 @@
 **Get `SESSION ID` by [`SCANING QR`](https://cling-md.onrender.com/) Or [`PARING CODE`](https://cling-md.onrender.com/code).  Then `Go-to Whatapp>Three dots>Linked Devices`**
 
 
-[Deploy on heroku](https://spaces.w3schools.com/space/clindmddeploy)
 
-**Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)**
+
+**Deploy Now [`deploy`](https://cling-md.mystrikingly.com/)**
 
 
 ##
