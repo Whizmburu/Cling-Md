@@ -18,3 +18,50 @@
     </div>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #00c6ff, #0072ff); /* Animated background gradient */
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1em;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.session-id {
+    background-color: #ff6f61; /* Coral color */
+}
+
+.fork-repo {
+    background-color: #4caf50; /* Green color */
+}
+
+.deploy-heroku {
+    background-color: #1e88e5; /* Blue color */
+}
+
+.button:hover {
+    opacity: 0.8;
+}
