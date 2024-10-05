@@ -1,0 +1,57 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Josphat",
+    "LANGUAGE": "English",
+    "theme": "CLING-MD",
+    "LANGCODE": "en",
+    "STRINGS": {   
+        "updater": {  
+            "UPDATE": "*Your bot is already on the latest version CLING-MD*",
+            "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Fresh Updates Installed!*"
+        },       
+        "global": { 
+            "botName": "CLING-MD",
+            "body": "WhatsApp Bot",
+            "greet2" : "Hey Master",
+            "pic1": "https://images5.alphacoders.com/656/656718.jpg",
+            "pic2": "https://i.pinimg.com/originals/4e/f4/9f/4ef49fa405a4973e1682c7fcdc68fe1c.jpg",
+            "pic3": "https://wallpapers.com/images/high/one-punch-man-genos-f4kqtbew9cs5f1n1.jpg",
+            "pic4": "https://flyclipart.com/thumbs/one-punch-man-genos-4k-1222032.png",
+            "pic5": "https://wallpapercave.com/uwp/uwp923267.jpeg",
+            "pic6": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcM5VjI_3jG888bD_2zLs0-xVsxBsdxkHnCw&usqp=CAU",
+            "pic7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2NPSrjipWFdmcEvF1moi2tQAMFI6hP-ZQw&usqp=CAU",
+            "greet" : "Master",
+            "dotbody" : "Stop me if you can.",
+            "emojii" : "🦾", 
+            "promote": "Promoted as an Admin, Enjoy",
+            "pmallow": "*Hii, This is CLING-MD*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly leave your message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 CLING-MD_",
+            "pmwarn": "✋Hii*\nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 CLING-MD*",
+            "permited": "Hii ${tname} Sir*\n\nNow you are permitted by my owner to PM.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 CLING-MD*", 
+            "revoked" : "*Hii ${tname} Sir*\n\nYour PM permit has been revoked.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 CLING-MD_",
+            "demote": "Admin role retrieved",
+            "antlink": "Link Detected.\n*Good Bye Master*",
+            "session": "\n*This is your session.sam.json, keep it safe and store it properly*\n_Now upload this JSON file in your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch*, and the bot will run for always.\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 CLING-MD*",
+            "mention": "Please mention any user, Master",
+            "title": "CLING-MD",
+            "footer": "CLING-MD-CYBORG",
+            "by": "Made by: *Josphat*",
+            "chat_desc": "Options Available* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Success ✓",
+            "dot": "Hello Master, why don't you try *help?*",
+            "couple_male": "*I don't want to die alone, I want a female yaar*",
+            "couple_female": "*I don't want to die alone, I want a male yaar*",
+            "admin": "This command is only for group Admin⚠️!",
+            "botAdmin": "Please provide me Admin role ❗",
+            "owner": "This command is only for my Owner ⚠️",
+            "group": "This feature is only for groups❗",
+            "private": "This feature is only for my Owner ⚠️",
+            "bot": "This feature is only for the bot number⚠️",
+            "wait": "Processing your request ✅"
+        },
+        "error": {
+            "text": "*Task Failed*"
+        }
+    }
+}
